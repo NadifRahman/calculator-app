@@ -4,10 +4,12 @@ This is a simple project to practice javascript.
 
 ## Initial Design 
 
-Below shows the initial design, note that the code logic + structure was slightly changed 
+Below displays the initial design, note that the code logic + structure was slightly changed 
 when I was actually implementing the design. 
 
-![calculator-design1](https://web.whatsapp.com/f5c0f7e9-dffb-4334-a012-5f5e59b7820f)
-![calculator-design2](https://web.whatsapp.com/c927f398-d308-42e5-84e6-4ed32bdbe74c)
-![calculator-design3](https://web.whatsapp.com/5308c8e5-1889-44ba-ac6e-348de23c5e41)
-![calculator-design4](https://web.whatsapp.com/0ceda7e8-ac89-4844-99a4-c58713b2521e)
+![cal1](https://github.com/NadifRahman/calculator-app/assets/155865015/fc86f2f6-8d4e-487b-b7df-f2b42969f7e7)
+![cal2](https://github.com/NadifRahman/calculator-app/assets/155865015/fe5e5afb-3bd8-4e11-956d-e8b614ee60c3)
+![cal3](https://github.com/NadifRahman/calculator-app/assets/155865015/8122b4f5-dac8-46a8-bbec-0908d728e68d)
+![cal4](https://github.com/NadifRahman/calculator-app/assets/155865015/da5b37cc-50f3-41c6-a07a-b08ca75143cb)
+
+
