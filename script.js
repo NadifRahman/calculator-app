@@ -129,8 +129,6 @@ plusminusBtn.addEventListener('click', (e) => {
     }
 });
 
-
-
 decimalBtn.addEventListener('click', () => {
         if(decimalUsed === false) {
         decimalUsed =true;
